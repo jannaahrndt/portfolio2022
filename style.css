@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+
+a:link, a:visited {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+  background-color: #DAF7A6;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+	margin-left: 20%;
+	margin-top: 15%;
+}
+
+a:hover, a:active {
+  background-color: #DBFF33;
+}
+
+canvas {
+  display: block;
+}
