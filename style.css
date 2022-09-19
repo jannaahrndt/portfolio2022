@@ -20,3 +20,7 @@ a:hover, a:active {
 canvas {
   display: block;
 }
+
+iframe {
+display: block;
+}
