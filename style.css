@@ -21,6 +21,20 @@ canvas {
   display: block;
 }
 
+ h1 {
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+  background-color: #DAF7A6;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 20%;
+  margin-top: 15%;
+}
+
 iframe {
-display: block;
+  display: block;
+  margin-left: 20%;
+  margin-top: 10%;
 }
